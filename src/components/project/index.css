@@ -1,0 +1,59 @@
+.project-container {
+    margin-bottom: 50px;  
+}
+
+.project-information-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.project-description-and-motivation-container {
+    width: 45%;
+    margin-right: 30px;
+}
+
+.project-name-display {
+    margin: 0 0 10px 0;
+    color: #00a8cc;
+    font-size: 28px;
+    font-weight: 500;
+    margin: 5px 0 10px 0;
+}
+
+.project-header-display {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 5px 0;
+    font-weight: 400;
+}
+
+.project-description-display {
+    margin: 0 0 15px 0;
+}
+
+.project-image-container {
+    width: 35%;
+}
+
+.project-image {
+    width: 100%;
+    height: 70%;
+    border-radius: 5px;
+}
+
+.see-on-github-link {
+    text-decoration: none;
+    border: none;
+    color: white;
+    background-color: #00a8cc;
+    padding: 7.5px 5px;
+    width: 120px;
+    text-align: center;
+    border-radius: 2.5px;
+    margin-bottom: 20px;
+}
+
+.project-divider {
+    width: 80%;
+    margin-top: 60px;
+}

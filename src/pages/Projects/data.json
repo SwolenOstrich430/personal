@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Data Structures in C", 
+        "description": "The project takes a basic implementation of a Stack, Queue, and LinkedList (the latter with JS array methods on it). Currently, I'm workin to expand each data structure's functionality and add a Hash Table.",
+        "motivation": "In school, I programmed a little bit in Assembly, a decent amount in Java, and some in Python. For the last 6 months, I've mostly been working in JavaScript. A few weeks ago, I decided to fill in some of the gaps that I had in my understanding of both how data structures and memory work in programming.", 
+        "imageSrc": "https://images.unsplash.com/photo-1527957557037-d079c24f24be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "imageAlt": "data-structure-in-c", 
+        "githubLink": "https://www.github.com/SwolenOstrich430/Data_Structures_In_C"
+    }, 
+    {
+        "name": "Evently", 
+        "description": "The final project for the bootcamp I attended, Evently is an applciation that allows recreational organizations and members to better organize programs and events.",
+        "repsonsibilities": "For the project, I was responsible for authentication and authorization (OIDC with Okta), real-time messaging (socket.io), caching (Redis), and controller-logic.", 
+        "imageSrc": "/evently-fetaures-page.png",
+        "imageAlt": "evently-features-page", 
+        "githubLink": "https://www.github.com/SwolenOstrich430/Evently"
+    }, 
+    {
+        "name": "Pillow", 
+        "description": "Pillow, a Zillow clone, was the result second project in the bootcamp I attended. The application allows for users to search and save properties that they're interested in and contact potential landloards and real estate agents.",
+        "repsonsibilities": "I was responsible for creating the UI for the property search page, our database schema and some of our controller logic, the messaging feature, and authentication and authorization with bcrypt.", 
+        "imageSrc": "/pillow-home-page.png",
+        "imageAlt": "pillow-home-page", 
+        "githubLink": "https://www.github.com/SwolenOstrich430/web-project2"
+    }, 
+    {
+        "name": "Quintessential Currations", 
+        "description": "Quintessential Currations was the result of the first project in the bootcamp I attended. Quintessential Currations is a music recommendation and management app that lets users search, listen, and save artists and music based on similar artists they're interested in.",
+        "repsonsibilities": "For the project, I worked helped work with Taste Dive (recommendation program) and Apple Music API and set up user management in Firebase.", 
+        "imageSrc": "/quintessential-currations-demo.png",
+        "imageAlt": "quintessential-currations-demo", 
+        "githubLink": "https://www.github.com/SwolenOstrich430/Project1"
+    }
+]

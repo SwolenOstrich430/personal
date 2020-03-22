@@ -1,0 +1,38 @@
+.about-content-container {
+    width: 87.5%;
+    height: 100vh;
+    margin-left: 22.5%;
+}
+
+.main-content-container {
+    margin: 50px 0 10px 50px;
+
+}
+
+.about-header-display {
+    padding-bottom: 20px;
+    font-size: 36px;
+    font-weight: 400;
+    color: rgb(33, 33, 33);
+    width: 85%;
+    border-bottom: 1px solid rgb(33, 33, 33);
+    margin-bottom: 40px;
+}
+
+.about-me-content-header {
+    color: #00a8cc;
+    font-size: 26px;
+    font-weight: 500;
+    margin: 5px 0;
+}
+
+.about-me-content-display {
+    width: 80%;
+    padding: 10px 5px;
+}
+
+.about-me-content-display p {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: 300;
+}
